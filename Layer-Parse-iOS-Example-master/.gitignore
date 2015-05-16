@@ -1,7 +1,0 @@
-Pods
-.DS_Store
-Podfile.lock
-*.bundle
-xcuserdata
-*.xcworkspace/xcshareddata
-xcodebuild.log
